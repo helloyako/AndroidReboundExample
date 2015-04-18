@@ -1,6 +1,6 @@
-# ReboundExample
-
-I found https://github.com/facebook/rebound
+# AndroidReboundExample
+This is android rebound example.  
+I found https://github.com/facebook/rebound  
 But I can't build.  
 
 
